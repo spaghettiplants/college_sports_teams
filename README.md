@@ -18,10 +18,10 @@ First capstone through Thinkful. Hypothesis testing for expenses to revenue rati
   It's important to consider how we can work to create a more equitable system. As an educational institution, the U.S.     
   Department of Education can gain benefits from seeking to explore the public college system's distribution of finances in a data-driven manner.
   
-  The original research question for this project was: How many public 4-year universities do not spend an equitable amount of money on their gendered sport teams?
-  
-  This question leads us to the following null and alternative hypotheses:
-  
+  ## Research Question 🙋🏻
+  How many public 4-year universities do not spend an equitable amount of money on their gendered sport teams?
+ 
+  ## Null and Alternative Hypotheses👨🏻‍🔬  
   **H0:** On average, public 4-year universities spend the same ratio of funds on women’s teams as men’s teams when normalized by the revenue to
   total revenue ratio that each team brings to the university.
   
@@ -30,13 +30,12 @@ First capstone through Thinkful. Hypothesis testing for expenses to revenue rati
   
   # Background for Version 2 ✌🏼
   In this iteration, we analyze the Expenses to Revenue ratios of the entire system - that is, we develop the ratios by adding
-  the expenses and revenues for all colleges by a year. This leaves us with a set of ratios for each sport by gender. Thus, the new
-  research question for this scenario is:
+  the expenses and revenues for all colleges by a year. This leaves us with a set of ratios for each sport by gender.
   
+  ## Research Question 🙋🏻
   For each year from 2010 to 2018, how many sports have a difference in their expenses to revenue ratio by gender?
   
-  The null and alternative hypothesis are as follows:
-  
+  ## Null and Alternative Hypotheses👨🏻‍🔬    
   **H0:** On average, sport teams of public 4-year universities spend the same ratio of funds on men's and women's teams when normalized
   by the ratio of revenue funds.
   
