@@ -41,3 +41,10 @@ First capstone through Thinkful. Hypothesis testing for expenses to revenue rati
   
   **Ha:** On average, sport teams of public 4-year universities do not spend the same ratio of funds on men's and women's teams when normalized
   by the ratio of revenue funds.
+  </details>
+  
+  <details>
+  <summary>1st Version</summary>
+  🚧 Under Construction 🚧
+  For an overview of this project, please head on over to the Jupyter notebook and slide deck, titled "College_EtR_Ratio_Report.ipynb" and
+  "Capstone1_Expenses_and_Revenue_of_College_Sports_Teams_by_Gender.pdf", respectively. Keep in mind the code needs some work and will be updated.
