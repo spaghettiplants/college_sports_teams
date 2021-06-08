@@ -3,13 +3,13 @@ First capstone through Thinkful. Hypothesis testing for expenses to revenue rati
   
   <details>
   <summary>Doc Overview 📄</summary>
-  There are 3 documents associated with the 1st iteration of this project. There's the slide deck "Expenses and Revenues of College Sports Teams by Gender",
-  a Jupyter Notebook titled "College EtR Ratio Report", and another titled "Overall EtR Ratio Report".
+  There are 2 documents associated with the 1st iteration of this project. There's the slide deck "Expenses and Revenues of College Sports Teams by Gender" and
+  a Jupyter Notebook titled "College EtR Ratio Report".
   
-  The College EtR Ratio Report (1st version) uses some not-so-stellar coding. There's some ~brute force~ and several inefficient for-loops. The code along with
-  another iteration of the project with a slightly different goal will be updated and provided here.
+  The College EtR Ratio Report (1st version) uses some not-so-stellar coding. There's some brute force and several inefficient for-loops. 
   
-  **A 2nd version of this project, with a different hypothesis, is laid out in the third Jupyter notebook, "Overall EtR Ratio Report".**
+  **A 2nd version of this project, with a different hypothesis, is laid out in the third Jupyter notebook, "Overall EtR Ratio Report".
+  Code methodologies are much improved in the 2nd version, and demonstrate a clear desire for improving code efficiency.**
   </details>
   <details>
   <summary>Background for Version 1 ✨</summary>
